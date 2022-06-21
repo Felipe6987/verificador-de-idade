@@ -25,7 +25,7 @@ function verificar(){
         }else if (idade == 77){
             //hitler
             img.setAttribute('src', 'hitler.avif')
-            window.alert('Detecmaos um Nazista!!!!')
+            window.alert('Detectamos um Nazista!!!!')
         }else{
             //idoso
             img.setAttribute('src', 'foto-idoso-m.jpg')
